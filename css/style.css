@@ -1,0 +1,21 @@
+
+
+.box{
+    height: 400px;
+    background-color: #1abc9c;
+}
+
+.central-cards{
+    height: 300px;
+    background-color: red;
+    border: 3px dotted blue;
+}
+
+
+.foot-card{
+    height: 150px;
+    background-color: red;
+    border: 3px dotted blue;
+}
+
+
